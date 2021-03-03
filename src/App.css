@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.swap {
+  cursor: pointer;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+.heading {
+  font-weight: 700;
+}
+.subheading {
+  font-weight: 300;
+}
